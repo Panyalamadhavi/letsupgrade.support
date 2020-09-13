@@ -1,0 +1,6 @@
+file.open(abc,'r')
+try:
+    file.append("hello,good morning")
+except:
+    print("you can't write")
+    

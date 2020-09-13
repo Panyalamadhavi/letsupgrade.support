@@ -1,0 +1,12 @@
+def somefunction(fibonacci):
+    def fibonacci():
+        num=input("enter a num")
+        fibonacci
+        num=num*(num-1)
+        print("result:" +num)
+        return fibanacci
+    def fibonacci1():
+        input=range(1,11)
+        modified_fibonacci1=somefunction(fibonacci1)
+        modified_fibonacci1()
+        
